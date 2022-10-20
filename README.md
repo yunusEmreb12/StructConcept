@@ -1,0 +1,1 @@
+C# (Struct(Yapı) Kavramı)[https://app.patika.dev/courses/csharp-101/5-struct-nedir]
